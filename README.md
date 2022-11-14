@@ -6,21 +6,21 @@ This repo is a collection of projects I worked on at Snap Inc. as a Snap Enginee
 This website is an unofficial demo website for a small business located in Malibu, CA.
 
 ## Demo
-<img src="assets/readme/bonsai.gif" />
+<img src="assets/bonsai.gif" />
 
-repo: https://github.com/awllms/bonsaimalibu
-website: https://awllms.com/bonsaimalibu
+repo: https://github.com/awllms/bonsaimalibu  
+website: https://awllms.com/bonsaimalibu  
 
-##  College Dropout - (Interactive Music App)
+##  College Dropout - (Interactive Music App)  
 
-repo: https://github.com/awllms/collegedropout
-website: https://awllms.com/collegedropout
+repo: https://github.com/awllms/collegedropout  
+website: https://awllms.com/collegedropout  
 
 ## Factorboy (Web App)
 Factorboy is an MVP application that factors polynomial equations. It was built in less than 24 hours.
 
-repo: https://github.com/awllms/factorboy
-website: https://awllms.com/factorboy
+repo: https://github.com/awllms/factorboy  
+website: https://awllms.com/factorboy  
 
 
 ## Snap Communities
