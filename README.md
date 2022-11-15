@@ -28,7 +28,7 @@ Factorboy is an MVP application that factors polynomial equations. It was built 
 repo: https://github.com/awllms/factorboy  
 website: https://awllms.com/factorboy  
 
-## Snap Communities
+## Snap Communities (SnapChat Feature Pitch)
 Snap Communities is a potential SnapChat feature my team and I pitched to Snap Inc. executives and members for the final project at the Snap Academies. The project was built using React Native, React Navigation, Apple Maps, Google Firebase to handle authentication and store user data, and Expo to demo the live prototype.
 
 ## Demo
